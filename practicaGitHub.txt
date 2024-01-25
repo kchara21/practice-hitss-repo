@@ -1,1 +1,2 @@
 se realizan pruebas de git
+Comandos de git para crear rama desde repositorio
